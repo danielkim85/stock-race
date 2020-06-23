@@ -1,0 +1,15 @@
+.card {
+	width:60px;
+	background-color:#fff;
+	display:inline-grid;
+	margin:10px;
+	padding:4px;
+	border:1px solid black;
+}
+.blank{
+	background-color:transparent;
+	border-color:transparent;
+}
+.card img {
+	width:100%;
+}

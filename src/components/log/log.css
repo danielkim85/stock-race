@@ -1,0 +1,11 @@
+.log{
+	height:100px;
+	overflow-y:auto;
+	margin:14px;
+	background-color:#fff;
+}
+
+.log div{
+	text-align:left;
+	margin:5px;
+}

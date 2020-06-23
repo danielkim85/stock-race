@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+.choose-card-container{
+	margin: 25px auto 10px auto;
+	width: 50%;
+	border: 3px solid grey;
+	padding: 10px;
+	background-color:#fff;
+}
+
+.choose-card-container .header{
+	font-size:20px;
+	margin:10px;
+}
+
+.choose-card-container .card{
+	cursor:pointer;
+}
+
+.choose-card
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +53,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card.horse {
+	cursor:pointer;
+}
+
+.start-container{
+	height:21px;
 }
