@@ -33,4 +33,4 @@ Deck.prototype.shuffle = function() {
   }
 }
 
-module.exports = Deck;
+export default Deck;
